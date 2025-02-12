@@ -1,1 +1,6 @@
-Hola buena estoy realizando una practica
+// CONSTANTES
+// VARIABLES – RECURSOS
+// INICIALIZACIÓN
+// ENTRADA
+// PROCESO
+// SALIDA
